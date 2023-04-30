@@ -1,12 +1,17 @@
 
 /* Your CSS Code here. */
-
-	
+body{
+	margin:20px;
+	boder:solid black;
 }
+	
+
 .div1{
 	padding:50px;
 	background-color:lightblue;
 	width:300px;
+	
+	border:15px solid blue;
 	
 }
 
