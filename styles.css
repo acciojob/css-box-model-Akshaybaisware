@@ -1,16 +1,24 @@
 
 /* Your CSS Code here. */
-body{
-	margin:20px;
-	boder:solid black;
-}
+*{
+	/*padding:0;
+	margin:0;*/
 	
+}
+body{
+
+}
+
+.big-div {
+	border: 1px solid black;
+	width: fit-content;
+}
 
 .div1{
 	padding:50px;
 	background-color:lightblue;
 	width:300px;
-	
+	margin:20px;
 	border:15px solid blue;
 	
 }
